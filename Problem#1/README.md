@@ -6,7 +6,7 @@ Enunciado.
 Dado un arreglo de numeros enteros y un numero entero objetivo, retornar los dos indices dado que su suma sea igual al numero objetivo, se puede retornar la solucion en el orden que sea.
 
 Mi pensamiento.
-Lo que se me ocurrio fue iterar el arreglo y en cada iteracion compara si el valor de la posicion actual del arreglo mas la siguiente posicion es igual al numero objetivo, entoces guardar dichas posiciones en el arreglo result y retornarlo.
+Lo que se me ocurrio fue iterar el arreglo y en cada iteracion compara si el valor de la posicion actual del arreglo mas la siguiente posicion es igual al numero objetivo, entoces guardar dichas posiciones en las variables pos y aux y retornar una nueva instancia de un array. Ademas una vez encontrada la solucion romper el ciclo for con un break.
 
 Solucion en codigo Java
 
