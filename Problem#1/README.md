@@ -10,7 +10,6 @@ La idea es simple, iteramos el array con dos ciclos for para cubrir todas las po
 ```C#
 public class Solution {
     int[] result = new int[2];
-    
     public int[] TwoSum(int[] nums, int target) {
         for(int i = 0; i <= nums.Length - 1; i++) {
             for(int j = 0; j <= nums.Length - 1; j++) {
@@ -20,7 +19,7 @@ public class Solution {
             }
         }
         result = new int[1] { 0 };
-		return result;
+	    return result;
     }
 }
 ```
