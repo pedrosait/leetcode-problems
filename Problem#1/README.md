@@ -7,7 +7,7 @@ Dado un arreglo de numeros enteros y un numero entero objetivo, retornar los dos
 
 Solucion en codigo Java
 
-```
+``` Java
 class Solution {
     // Array para guardar la solucion
     int[] result = new int[2];
