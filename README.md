@@ -1,2 +1,2 @@
-# leetcode-solves
+# leetcode-problems
 My repo solves
