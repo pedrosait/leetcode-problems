@@ -1,4 +1,4 @@
-## Two Sum
+## 1. Two Sum
 
 #### Enunciado.
 Dado una arreglo de interos y un entero objetivo retornar los indices que dado su suma es igual el numero objetivo.
