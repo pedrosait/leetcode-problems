@@ -78,7 +78,7 @@ function isPalindrome($x) {
 }
 ```
 
-#### COdigo Kotlin
+#### Codigo Kotlin
 ```js
 class Solution {
     fun isPalindrome(x: Int): Boolean {
