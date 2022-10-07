@@ -4,7 +4,7 @@
 Dado una arreglo de interos y un entero objetivo retornar los indices que dado su suma es igual el numero objetivo.
 
 #### Solucion
-La idea es simple, iteramos el array con dos ciclos for para cubrir todas las posible combinaciones y en cada iteracion comprobar que las variables que controlan el ciclo no tengan el mismo valor y que la suma del valor de la posicion i mas la suma del valor de la posicion j sea igual al numero objetivo.
+La idea es simple, iteramos el array con dos ciclos for para cubrir todas las posible combinaciones y en cada iteracion comprobar que las variables que controlan el ciclo no esten en la misma posicion y que la suma del valor de la posicion i mas la suma del valor de la posicion j sea igual al numero objetivo.
 
 #### Codigo de CSharp
 ```C#
