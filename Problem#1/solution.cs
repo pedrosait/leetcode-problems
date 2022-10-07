@@ -15,7 +15,7 @@ public class Solution {
                 }
             }
         }
-        // if there is no sum equal return 0, 0
+        // if there is no sum equal return 0
         sumArray = new int[1] { 0 };
 		return sumArray;
     }
